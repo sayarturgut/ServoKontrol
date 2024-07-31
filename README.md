@@ -1,0 +1,1 @@
+It stores certain information in its memory based on inputs received from a membrane keypad and controls a servo motor. A small 7-segment display serves as the user interface, showing the stored information.
